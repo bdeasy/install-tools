@@ -16,3 +16,15 @@ The tools installed include:
 * Python 3
 * Pipenv
 * Cocoapods 
+
+## To add
+
+* virtualenv
+* virtualenvwrapper
+* node
+* yarn
+* npm
+* maven
+* docker
+* vim python extensions
+
