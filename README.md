@@ -19,6 +19,16 @@ The tools installed include:
 
 ## To add
 
+* setup HOME vars for:
+	* gradle 
+	* yarn
+	* maven
+	* android 
+	* java
+	* groovy
+	* python
+	* nvm
+	* node
 * virtualenv
 * virtualenvwrapper
 * node
